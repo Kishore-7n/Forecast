@@ -28,7 +28,6 @@ export default function Weather() {
     {
         const wapp =  await fetch(url);
         const wappres = await wapp.json();
-        console.log(wappres);
         setrescity(wappres.name)
         settemp(wappres.main.temp)
         setmintemp(wappres.main.temp_min)
