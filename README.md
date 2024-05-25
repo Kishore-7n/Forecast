@@ -15,7 +15,7 @@ ensuring you are prepared for whatever Mother Nature throws your way.
 
 # websiteurl
 
-https://forecast-dgpf.onrender.com
+https://forecast247.netlify.app
 
 # About
 
